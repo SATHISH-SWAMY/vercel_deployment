@@ -1,0 +1,10 @@
+
+
+48:04 / 59:59 part 7
+
+
+
+error to be rectified
+
+1. email server issue mail is not geting sended to other mail
+2. Email.jsx component is not geting rendered from Email.jsx 
